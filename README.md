@@ -1,4 +1,4 @@
-# Shamir Secret Sharing algorithm in Rust
+# Shamir Secret Sharing Protocol in Rust
 
 ## References
 
